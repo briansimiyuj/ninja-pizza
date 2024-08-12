@@ -1,0 +1,6 @@
+We can send data to a server using two methods:
+
+    GET - This sends the data as a parameter in the URL.
+    POST - This sends the data as a parameter in the body of the request.
+
+video #17
